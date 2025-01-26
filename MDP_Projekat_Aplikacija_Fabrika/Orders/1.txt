@@ -1,0 +1,5 @@
+Status: APPROVED
+e-mail: kola@mail.com
+Products: 
+	[1115] Kefir #1.00
+	[1112] Kifla #1.00

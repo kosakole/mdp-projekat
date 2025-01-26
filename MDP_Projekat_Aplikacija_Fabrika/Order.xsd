@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="myNamespace">
+    <xs:element name="Order">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="ProductAndAmount" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Product">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="barcode" type="xs:string"/>
+                                        <xs:element name="name" type="xs:string"/>
+                                        <xs:element name="price" type="xs:double"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="amount" type="xs:double"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                 <xs:element name="email" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

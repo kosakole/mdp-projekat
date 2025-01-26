@@ -1,0 +1,6 @@
+Status: REJECTED
+e-mail: kole@gmail.com
+Products: 
+	[1112]      Kifla #1.00
+	[1114]     Jogurt #1.00
+	[1111]      Hljeb #1.00

@@ -1,0 +1,26 @@
+Feb 08, 2024 3:21:21 AM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 08, 2024 8:53:49 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 08, 2024 8:58:54 PM org.unibl.etf.mdp.source.UserSourceREST chackUser
+SEVERE: Error writing JSON-B serialized object.
+Feb 08, 2024 9:12:08 PM org.unibl.etf.mdp.source.UserSourceREST chackUser
+SEVERE: javax.ws.rs.ProcessingException: Error writing JSON-B serialized object.
+Feb 08, 2024 11:49:22 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 11:46:07 AM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 12:04:10 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 12:20:11 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 12:26:18 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 12:37:28 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 12:46:17 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 12:49:42 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.
+Feb 11, 2024 12:52:10 PM org.unibl.etf.mdp.multicastsocket.MulticastSocketClient <init>
+INFO: Multicast start successfully.

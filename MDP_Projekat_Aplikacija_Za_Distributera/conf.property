@@ -1,0 +1,9 @@
+LOGGER_FILE=logger.log
+LOGGER_NAME=log
+SERVER_HOST=127.0.0.1
+RMI_HOST=127.0.0.1
+RMI_PORT=1099
+RESOURSE_PATH=resources
+CLIENT_POLICY=client_policyfile.txt
+SERVER_POLICY=server_policyfile.txt
+ServerRMI=ServerRMI

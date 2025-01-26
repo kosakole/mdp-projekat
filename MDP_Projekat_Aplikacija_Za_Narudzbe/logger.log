@@ -1,0 +1,92 @@
+Feb 09, 2024 1:30:19 AM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-0yFu3xK-X3d8v-tytjI0dgstart
+Feb 09, 2024 1:30:24 AM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-8cKWRJ9r61aazrBy4k0p_Qstart
+Feb 09, 2024 1:30:26 AM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-lBITDWUKwle2Zs_BG791dQstart
+Feb 11, 2024 11:53:13 AM org.unibl.etf.mdp.client.Client <init>
+SEVERE: java.net.ConnectException: Connection refused: connect
+Feb 11, 2024 11:53:59 AM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 11:54:26 AM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-QFRsC-5m1p8D2nmf5TE50gstart
+Feb 11, 2024 11:57:41 AM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-g9k2c4nyFvoSQQ96KZXbRgstart
+Feb 11, 2024 11:57:46 AM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-iiWUZX4YtE40kEujoA9Wjwstart
+Feb 11, 2024 12:03:39 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:03:46 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-sp_6LYAbMCkF5_5lOoSeggstart
+Feb 11, 2024 12:04:43 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-pX97X_mbqg2YU3sy3Cc2jgstart
+Feb 11, 2024 12:04:58 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-IoiV-4XuFahzBSYGep9ZRgstart
+Feb 11, 2024 12:19:47 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:19:55 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-7FZYtc4_KcoaMD49bIwZ8gstart
+Feb 11, 2024 12:26:00 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:26:32 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-0JXgLqH91s6YnCZqlOKxiAstart
+Feb 11, 2024 12:37:01 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:37:34 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-FpR0HGK4q5vOhrJb6E8TIQstart
+Feb 11, 2024 12:37:35 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:37:35 PM org.unibl.etf.mdp.service.OrderService <init>
+SEVERE: java.io.FileNotFoundException: mail (The system cannot find the file specified)
+Feb 11, 2024 12:38:05 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-fLjDxL5LFOf_gUJyjDMiNgstart
+Feb 11, 2024 12:38:08 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:38:08 PM org.unibl.etf.mdp.service.OrderService <init>
+SEVERE: java.io.FileNotFoundException: mail (The system cannot find the file specified)
+Feb 11, 2024 12:38:11 PM org.unibl.etf.mdp.service.OrderService sendMail
+SEVERE: java.io.FileNotFoundException: mail (The system cannot find the file specified)
+Feb 11, 2024 12:38:39 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-sSAwSP0h3ERlZddvr-ac7gstart
+Feb 11, 2024 12:38:42 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:38:42 PM org.unibl.etf.mdp.service.OrderService <init>
+SEVERE: java.io.FileNotFoundException: mail (The system cannot find the file specified)
+Feb 11, 2024 12:38:47 PM org.unibl.etf.mdp.service.OrderService sendMail
+SEVERE: java.io.FileNotFoundException: mail (The system cannot find the file specified)
+Feb 11, 2024 12:45:57 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:46:03 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-0ixu_qe0DIxYaiK-b2CY1Astart
+Feb 11, 2024 12:46:36 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:46:36 PM org.unibl.etf.mdp.service.OrderService <init>
+SEVERE: java.io.FileNotFoundException: mail (The system cannot find the file specified)
+Feb 11, 2024 12:46:37 PM org.unibl.etf.mdp.service.OrderService sendMail
+SEVERE: java.io.FileNotFoundException: mail (The system cannot find the file specified)
+Feb 11, 2024 12:49:03 PM org.unibl.etf.mdp.client.Client <init>
+SEVERE: java.net.ConnectException: Connection refused: connect
+Feb 11, 2024 12:49:06 PM org.unibl.etf.mdp.gui.Login$1 actionPerformed
+SEVERE: java.lang.NullPointerException
+Feb 11, 2024 12:49:08 PM org.unibl.etf.mdp.gui.Login$1 actionPerformed
+SEVERE: java.lang.NullPointerException
+Feb 11, 2024 12:50:09 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:50:15 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-3BONtoXGcE26041ES8VJzQstart
+Feb 11, 2024 12:50:16 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:50:16 PM org.unibl.etf.mdp.service.OrderService <init>
+SEVERE: java.io.FileNotFoundException: mail.property (The system cannot find the file specified)
+Feb 11, 2024 12:50:18 PM org.unibl.etf.mdp.service.OrderService sendMail
+SEVERE: java.io.FileNotFoundException: mail.property (The system cannot find the file specified)
+Feb 11, 2024 12:51:53 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:52:25 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-L-9ZEbNUA-0Ul0B3K7TCvwstart
+Feb 11, 2024 12:52:26 PM org.unibl.etf.mdp.client.Client <init>
+INFO: Connecton successfull!
+Feb 11, 2024 12:52:33 PM org.unibl.etf.mdp.service.OrderService sendMail
+INFO: Mail sent
+Feb 11, 2024 12:53:08 PM org.unibl.etf.mdp.gui.MainForm initMQ
+INFO: amq.gen-q1pKC3_5YU7B5LTnZwymNQstart
